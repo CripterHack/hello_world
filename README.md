@@ -8,10 +8,12 @@ El diseño comienza exactamente el **domingo 8 de febrero de 2015**, con **98 co
 
 ## Estado
 
-- Diseño de 2015, SVG, manifiesto y generador preparados.
-- Los **98 commits de esta versión todavía no están publicados**.
+- Diseño de 2015, SVG, manifiesto y generador preparados y probados.
+- **98 commits de esta versión publicados y verificados**: fechas de autor y committer idénticas al manifiesto y atribución a `CripterHack`.
+- [La ejecución temporal de Actions](https://github.com/CripterHack/hello_world/actions/runs/38433978067) terminó correctamente; el workflow se retiró tras un solo push fast-forward.
+- [Último commit de arte de 2015](https://github.com/CripterHack/hello_world/commit/df4276605e348229f67dde8b28ed052904290950).
 - Los **99 commits de 1995 se conservan intactos**, sin reescribir el historial.
-- El propietario comprobó que su interfaz permite consultar desde 2015 y pidió este ajuste. La aparición final del nuevo dibujo sigue pendiente de publicación y comprobación.
+- El propietario comprobó que su interfaz permite consultar desde 2015 y pidió este ajuste. Los commits ya están publicados; su aparición final en el calendario del perfil sigue pendiente de comprobación.
 
 ## Archivos
 
@@ -37,7 +39,7 @@ La carpeta de salida no debe contener archivos generados anteriormente: se recha
 
 ## Generar los commits en un clon
 
-Verifica la rama predeterminada (`master`), un árbol limpio y tu identidad Git. El script lee `git config user.name` y `git config user.email`, sin contener direcciones personales ni consultar GitHub para comprobar su asociación.
+Esta versión ya está publicada: no vuelvas a generarla en este repositorio. Para una reproducción independiente, verifica la rama predeterminada (`master`), un árbol limpio y tu identidad Git. El script lee `git config user.name` y `git config user.email`, sin contener direcciones personales ni consultar GitHub para comprobar su asociación.
 
 El propietario autorizó usar la identidad ya atribuida a su cuenta. Para otras reproducciones, usa un correo asociado y, si deseas privacidad, tu dirección `noreply` exacta de [GitHub → Settings → Emails](https://github.com/settings/emails). No presupongas que una dirección construida está vinculada.
 
