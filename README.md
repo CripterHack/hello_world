@@ -11,7 +11,9 @@ El primer píxel es un marcador del jueves 5 de enero. Las letras empiezan el lu
 ## Estado
 
 - Diseño, SVG, manifiesto y generador preparados y probados.
-- Los commits históricos **todavía no están publicados**; publicar los archivos por sí solo no dibuja el calendario.
+- **99 commits históricos publicados y verificados** en `master`: fechas de autor y committer idénticas al manifiesto, y atribución confirmada a `CripterHack`.
+- [La ejecución temporal de GitHub Actions](https://github.com/CripterHack/hello_world/actions/runs/38428044908) terminó correctamente. El workflow se retiró tras un único push fast-forward, sin reescribir el historial existente ni dejar credenciales persistentes.
+- [Último commit de arte](https://github.com/CripterHack/hello_world/commit/8971a25a2aa58d9af5e916b4049cfd243071d848). Los commits de documentación y preparación mantienen sus fechas actuales.
 - La visualización de 1995 en el perfil de GitHub sigue sin verificarse. El SVG garantiza que el diseño se vea en este README.
 
 ## Archivos
@@ -34,9 +36,9 @@ La carpeta de salida no debe contener los archivos generados: el programa se nie
 
 ## Añadir el historial al clon local
 
-Primero verifica que estás en la rama predeterminada, actualmente `master`, que el árbol de trabajo está limpio y que tu identidad Git usa un correo asociado a tu cuenta GitHub. Puedes usar tu dirección `noreply` verificada en los ajustes de GitHub; no publiques un correo personal innecesariamente.
+El historial de este repositorio ya está generado: no vuelvas a ejecutarlo aquí. Para una reproducción independiente, primero verifica que estás en la rama predeterminada, actualmente `master`, que el árbol de trabajo está limpio y que tu identidad Git usa un correo asociado a tu cuenta GitHub. Puedes usar tu dirección `noreply` verificada en los ajustes de GitHub; no publiques un correo personal innecesariamente.
 
-El generador lee `git config user.name` y `git config user.email`; no incluye ninguna dirección personal ni asume un `noreply`. No consulta GitHub para verificar la asociación del correo. La dirección `noreply` de esta cuenta aún no se ha confirmado: compruébala en [los ajustes de correo de GitHub](https://github.com/settings/emails) antes de generar los commits si quieres usarla.
+El generador lee `git config user.name` y `git config user.email`; no incluye ninguna dirección personal ni asume un `noreply`. No consulta GitHub para verificar la asociación del correo. Para esta publicación se usó, con autorización del propietario, la identidad ya asociada a su cuenta. La dirección `noreply` de esta cuenta aún no se ha confirmado: compruébala en [los ajustes de correo de GitHub](https://github.com/settings/emails) antes de generar los commits si quieres usarla.
 
 ```sh
 git switch master
