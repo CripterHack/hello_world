@@ -36,6 +36,8 @@ La carpeta de salida no debe contener los archivos generados: el programa se nie
 
 Primero verifica que estás en la rama predeterminada, actualmente `master`, que el árbol de trabajo está limpio y que tu identidad Git usa un correo asociado a tu cuenta GitHub. Puedes usar tu dirección `noreply` verificada en los ajustes de GitHub; no publiques un correo personal innecesariamente.
 
+El generador lee `git config user.name` y `git config user.email`; no incluye ninguna dirección personal ni asume un `noreply`. No consulta GitHub para verificar la asociación del correo. La dirección `noreply` de esta cuenta aún no se ha confirmado: compruébala en [los ajustes de correo de GitHub](https://github.com/settings/emails) antes de generar los commits si quieres usarla.
+
 ```sh
 git switch master
 git pull --ff-only
