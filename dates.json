@@ -1,797 +1,792 @@
 {
   "text": "HELLO WORLD",
   "synthetic": true,
-  "year": 1995,
+  "year": 2015,
+  "design_id": "hello-world-2015-02-08-v2",
+  "grid_start": "2014-12-28",
+  "art_start": "2015-02-08",
   "entries": [
     {
-      "date": "1995-01-05",
-      "timestamp": "1995-01-05T12:00:00+00:00",
-      "week": 0,
-      "weekday": 4,
-      "kind": "start-marker",
+      "date": "2015-02-08",
+      "timestamp": "2015-02-08T12:00:00+00:00",
+      "week": 6,
+      "weekday": 0,
+      "kind": "letter-H",
       "commits": 1
     },
     {
-      "date": "1995-01-16",
-      "timestamp": "1995-01-16T12:00:00+00:00",
-      "week": 2,
+      "date": "2015-02-09",
+      "timestamp": "2015-02-09T12:00:00+00:00",
+      "week": 6,
       "weekday": 1,
       "kind": "letter-H",
       "commits": 1
     },
     {
-      "date": "1995-01-17",
-      "timestamp": "1995-01-17T12:00:00+00:00",
-      "week": 2,
+      "date": "2015-02-10",
+      "timestamp": "2015-02-10T12:00:00+00:00",
+      "week": 6,
       "weekday": 2,
       "kind": "letter-H",
       "commits": 1
     },
     {
-      "date": "1995-01-18",
-      "timestamp": "1995-01-18T12:00:00+00:00",
-      "week": 2,
+      "date": "2015-02-11",
+      "timestamp": "2015-02-11T12:00:00+00:00",
+      "week": 6,
       "weekday": 3,
       "kind": "letter-H",
       "commits": 1
     },
     {
-      "date": "1995-01-19",
-      "timestamp": "1995-01-19T12:00:00+00:00",
-      "week": 2,
+      "date": "2015-02-12",
+      "timestamp": "2015-02-12T12:00:00+00:00",
+      "week": 6,
       "weekday": 4,
       "kind": "letter-H",
       "commits": 1
     },
     {
-      "date": "1995-01-20",
-      "timestamp": "1995-01-20T12:00:00+00:00",
-      "week": 2,
-      "weekday": 5,
-      "kind": "letter-H",
-      "commits": 1
-    },
-    {
-      "date": "1995-01-25",
-      "timestamp": "1995-01-25T12:00:00+00:00",
-      "week": 3,
-      "weekday": 3,
-      "kind": "letter-H",
-      "commits": 1
-    },
-    {
-      "date": "1995-01-30",
-      "timestamp": "1995-01-30T12:00:00+00:00",
-      "week": 4,
-      "weekday": 1,
-      "kind": "letter-H",
-      "commits": 1
-    },
-    {
-      "date": "1995-01-31",
-      "timestamp": "1995-01-31T12:00:00+00:00",
-      "week": 4,
+      "date": "2015-02-17",
+      "timestamp": "2015-02-17T12:00:00+00:00",
+      "week": 7,
       "weekday": 2,
       "kind": "letter-H",
       "commits": 1
     },
     {
-      "date": "1995-02-01",
-      "timestamp": "1995-02-01T12:00:00+00:00",
-      "week": 4,
-      "weekday": 3,
+      "date": "2015-02-22",
+      "timestamp": "2015-02-22T12:00:00+00:00",
+      "week": 8,
+      "weekday": 0,
       "kind": "letter-H",
       "commits": 1
     },
     {
-      "date": "1995-02-02",
-      "timestamp": "1995-02-02T12:00:00+00:00",
-      "week": 4,
-      "weekday": 4,
-      "kind": "letter-H",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-03",
-      "timestamp": "1995-02-03T12:00:00+00:00",
-      "week": 4,
-      "weekday": 5,
-      "kind": "letter-H",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-13",
-      "timestamp": "1995-02-13T12:00:00+00:00",
-      "week": 6,
-      "weekday": 1,
-      "kind": "letter-E",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-14",
-      "timestamp": "1995-02-14T12:00:00+00:00",
-      "week": 6,
-      "weekday": 2,
-      "kind": "letter-E",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-15",
-      "timestamp": "1995-02-15T12:00:00+00:00",
-      "week": 6,
-      "weekday": 3,
-      "kind": "letter-E",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-16",
-      "timestamp": "1995-02-16T12:00:00+00:00",
-      "week": 6,
-      "weekday": 4,
-      "kind": "letter-E",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-17",
-      "timestamp": "1995-02-17T12:00:00+00:00",
-      "week": 6,
-      "weekday": 5,
-      "kind": "letter-E",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-20",
-      "timestamp": "1995-02-20T12:00:00+00:00",
-      "week": 7,
-      "weekday": 1,
-      "kind": "letter-E",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-22",
-      "timestamp": "1995-02-22T12:00:00+00:00",
-      "week": 7,
-      "weekday": 3,
-      "kind": "letter-E",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-24",
-      "timestamp": "1995-02-24T12:00:00+00:00",
-      "week": 7,
-      "weekday": 5,
-      "kind": "letter-E",
-      "commits": 1
-    },
-    {
-      "date": "1995-02-27",
-      "timestamp": "1995-02-27T12:00:00+00:00",
+      "date": "2015-02-23",
+      "timestamp": "2015-02-23T12:00:00+00:00",
       "week": 8,
       "weekday": 1,
-      "kind": "letter-E",
+      "kind": "letter-H",
       "commits": 1
     },
     {
-      "date": "1995-03-03",
-      "timestamp": "1995-03-03T12:00:00+00:00",
+      "date": "2015-02-24",
+      "timestamp": "2015-02-24T12:00:00+00:00",
       "week": 8,
-      "weekday": 5,
+      "weekday": 2,
+      "kind": "letter-H",
+      "commits": 1
+    },
+    {
+      "date": "2015-02-25",
+      "timestamp": "2015-02-25T12:00:00+00:00",
+      "week": 8,
+      "weekday": 3,
+      "kind": "letter-H",
+      "commits": 1
+    },
+    {
+      "date": "2015-02-26",
+      "timestamp": "2015-02-26T12:00:00+00:00",
+      "week": 8,
+      "weekday": 4,
+      "kind": "letter-H",
+      "commits": 1
+    },
+    {
+      "date": "2015-03-08",
+      "timestamp": "2015-03-08T12:00:00+00:00",
+      "week": 10,
+      "weekday": 0,
       "kind": "letter-E",
       "commits": 1
     },
     {
-      "date": "1995-03-13",
-      "timestamp": "1995-03-13T12:00:00+00:00",
+      "date": "2015-03-09",
+      "timestamp": "2015-03-09T12:00:00+00:00",
       "week": 10,
       "weekday": 1,
-      "kind": "letter-L",
+      "kind": "letter-E",
       "commits": 1
     },
     {
-      "date": "1995-03-14",
-      "timestamp": "1995-03-14T12:00:00+00:00",
+      "date": "2015-03-10",
+      "timestamp": "2015-03-10T12:00:00+00:00",
       "week": 10,
       "weekday": 2,
-      "kind": "letter-L",
+      "kind": "letter-E",
       "commits": 1
     },
     {
-      "date": "1995-03-15",
-      "timestamp": "1995-03-15T12:00:00+00:00",
+      "date": "2015-03-11",
+      "timestamp": "2015-03-11T12:00:00+00:00",
       "week": 10,
       "weekday": 3,
-      "kind": "letter-L",
+      "kind": "letter-E",
       "commits": 1
     },
     {
-      "date": "1995-03-16",
-      "timestamp": "1995-03-16T12:00:00+00:00",
+      "date": "2015-03-12",
+      "timestamp": "2015-03-12T12:00:00+00:00",
       "week": 10,
       "weekday": 4,
-      "kind": "letter-L",
+      "kind": "letter-E",
       "commits": 1
     },
     {
-      "date": "1995-03-17",
-      "timestamp": "1995-03-17T12:00:00+00:00",
-      "week": 10,
-      "weekday": 5,
-      "kind": "letter-L",
-      "commits": 1
-    },
-    {
-      "date": "1995-03-24",
-      "timestamp": "1995-03-24T12:00:00+00:00",
+      "date": "2015-03-15",
+      "timestamp": "2015-03-15T12:00:00+00:00",
       "week": 11,
-      "weekday": 5,
-      "kind": "letter-L",
+      "weekday": 0,
+      "kind": "letter-E",
       "commits": 1
     },
     {
-      "date": "1995-03-31",
-      "timestamp": "1995-03-31T12:00:00+00:00",
+      "date": "2015-03-17",
+      "timestamp": "2015-03-17T12:00:00+00:00",
+      "week": 11,
+      "weekday": 2,
+      "kind": "letter-E",
+      "commits": 1
+    },
+    {
+      "date": "2015-03-19",
+      "timestamp": "2015-03-19T12:00:00+00:00",
+      "week": 11,
+      "weekday": 4,
+      "kind": "letter-E",
+      "commits": 1
+    },
+    {
+      "date": "2015-03-22",
+      "timestamp": "2015-03-22T12:00:00+00:00",
       "week": 12,
-      "weekday": 5,
+      "weekday": 0,
+      "kind": "letter-E",
+      "commits": 1
+    },
+    {
+      "date": "2015-03-26",
+      "timestamp": "2015-03-26T12:00:00+00:00",
+      "week": 12,
+      "weekday": 4,
+      "kind": "letter-E",
+      "commits": 1
+    },
+    {
+      "date": "2015-04-05",
+      "timestamp": "2015-04-05T12:00:00+00:00",
+      "week": 14,
+      "weekday": 0,
       "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-04-10",
-      "timestamp": "1995-04-10T12:00:00+00:00",
+      "date": "2015-04-06",
+      "timestamp": "2015-04-06T12:00:00+00:00",
       "week": 14,
       "weekday": 1,
       "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-04-11",
-      "timestamp": "1995-04-11T12:00:00+00:00",
+      "date": "2015-04-07",
+      "timestamp": "2015-04-07T12:00:00+00:00",
       "week": 14,
       "weekday": 2,
       "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-04-12",
-      "timestamp": "1995-04-12T12:00:00+00:00",
+      "date": "2015-04-08",
+      "timestamp": "2015-04-08T12:00:00+00:00",
       "week": 14,
       "weekday": 3,
       "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-04-13",
-      "timestamp": "1995-04-13T12:00:00+00:00",
+      "date": "2015-04-09",
+      "timestamp": "2015-04-09T12:00:00+00:00",
       "week": 14,
       "weekday": 4,
       "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-04-14",
-      "timestamp": "1995-04-14T12:00:00+00:00",
-      "week": 14,
-      "weekday": 5,
-      "kind": "letter-L",
-      "commits": 1
-    },
-    {
-      "date": "1995-04-21",
-      "timestamp": "1995-04-21T12:00:00+00:00",
+      "date": "2015-04-16",
+      "timestamp": "2015-04-16T12:00:00+00:00",
       "week": 15,
-      "weekday": 5,
+      "weekday": 4,
       "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-04-28",
-      "timestamp": "1995-04-28T12:00:00+00:00",
+      "date": "2015-04-23",
+      "timestamp": "2015-04-23T12:00:00+00:00",
       "week": 16,
-      "weekday": 5,
+      "weekday": 4,
       "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-05-08",
-      "timestamp": "1995-05-08T12:00:00+00:00",
+      "date": "2015-05-03",
+      "timestamp": "2015-05-03T12:00:00+00:00",
+      "week": 18,
+      "weekday": 0,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-05-04",
+      "timestamp": "2015-05-04T12:00:00+00:00",
       "week": 18,
       "weekday": 1,
-      "kind": "letter-O",
+      "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-05-09",
-      "timestamp": "1995-05-09T12:00:00+00:00",
+      "date": "2015-05-05",
+      "timestamp": "2015-05-05T12:00:00+00:00",
       "week": 18,
       "weekday": 2,
-      "kind": "letter-O",
+      "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-05-10",
-      "timestamp": "1995-05-10T12:00:00+00:00",
+      "date": "2015-05-06",
+      "timestamp": "2015-05-06T12:00:00+00:00",
       "week": 18,
       "weekday": 3,
-      "kind": "letter-O",
+      "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-05-11",
-      "timestamp": "1995-05-11T12:00:00+00:00",
+      "date": "2015-05-07",
+      "timestamp": "2015-05-07T12:00:00+00:00",
       "week": 18,
       "weekday": 4,
-      "kind": "letter-O",
+      "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-05-12",
-      "timestamp": "1995-05-12T12:00:00+00:00",
-      "week": 18,
-      "weekday": 5,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-05-15",
-      "timestamp": "1995-05-15T12:00:00+00:00",
+      "date": "2015-05-14",
+      "timestamp": "2015-05-14T12:00:00+00:00",
       "week": 19,
+      "weekday": 4,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-05-21",
+      "timestamp": "2015-05-21T12:00:00+00:00",
+      "week": 20,
+      "weekday": 4,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-05-31",
+      "timestamp": "2015-05-31T12:00:00+00:00",
+      "week": 22,
+      "weekday": 0,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-06-01",
+      "timestamp": "2015-06-01T12:00:00+00:00",
+      "week": 22,
       "weekday": 1,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-05-19",
-      "timestamp": "1995-05-19T12:00:00+00:00",
-      "week": 19,
-      "weekday": 5,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-05-22",
-      "timestamp": "1995-05-22T12:00:00+00:00",
-      "week": 20,
-      "weekday": 1,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-05-23",
-      "timestamp": "1995-05-23T12:00:00+00:00",
-      "week": 20,
+      "date": "2015-06-02",
+      "timestamp": "2015-06-02T12:00:00+00:00",
+      "week": 22,
       "weekday": 2,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-05-24",
-      "timestamp": "1995-05-24T12:00:00+00:00",
-      "week": 20,
+      "date": "2015-06-03",
+      "timestamp": "2015-06-03T12:00:00+00:00",
+      "week": 22,
       "weekday": 3,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-05-25",
-      "timestamp": "1995-05-25T12:00:00+00:00",
-      "week": 20,
+      "date": "2015-06-04",
+      "timestamp": "2015-06-04T12:00:00+00:00",
+      "week": 22,
       "weekday": 4,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-05-26",
-      "timestamp": "1995-05-26T12:00:00+00:00",
-      "week": 20,
-      "weekday": 5,
+      "date": "2015-06-07",
+      "timestamp": "2015-06-07T12:00:00+00:00",
+      "week": 23,
+      "weekday": 0,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-06-19",
-      "timestamp": "1995-06-19T12:00:00+00:00",
+      "date": "2015-06-11",
+      "timestamp": "2015-06-11T12:00:00+00:00",
+      "week": 23,
+      "weekday": 4,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-06-14",
+      "timestamp": "2015-06-14T12:00:00+00:00",
+      "week": 24,
+      "weekday": 0,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-06-15",
+      "timestamp": "2015-06-15T12:00:00+00:00",
       "week": 24,
       "weekday": 1,
-      "kind": "letter-W",
+      "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-06-20",
-      "timestamp": "1995-06-20T12:00:00+00:00",
+      "date": "2015-06-16",
+      "timestamp": "2015-06-16T12:00:00+00:00",
       "week": 24,
       "weekday": 2,
-      "kind": "letter-W",
+      "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-06-21",
-      "timestamp": "1995-06-21T12:00:00+00:00",
+      "date": "2015-06-17",
+      "timestamp": "2015-06-17T12:00:00+00:00",
       "week": 24,
       "weekday": 3,
-      "kind": "letter-W",
+      "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-06-22",
-      "timestamp": "1995-06-22T12:00:00+00:00",
+      "date": "2015-06-18",
+      "timestamp": "2015-06-18T12:00:00+00:00",
       "week": 24,
       "weekday": 4,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-07-12",
+      "timestamp": "2015-07-12T12:00:00+00:00",
+      "week": 28,
+      "weekday": 0,
       "kind": "letter-W",
       "commits": 1
     },
     {
-      "date": "1995-06-30",
-      "timestamp": "1995-06-30T12:00:00+00:00",
-      "week": 25,
-      "weekday": 5,
-      "kind": "letter-W",
-      "commits": 1
-    },
-    {
-      "date": "1995-07-05",
-      "timestamp": "1995-07-05T12:00:00+00:00",
-      "week": 26,
-      "weekday": 3,
-      "kind": "letter-W",
-      "commits": 1
-    },
-    {
-      "date": "1995-07-06",
-      "timestamp": "1995-07-06T12:00:00+00:00",
-      "week": 26,
-      "weekday": 4,
-      "kind": "letter-W",
-      "commits": 1
-    },
-    {
-      "date": "1995-07-14",
-      "timestamp": "1995-07-14T12:00:00+00:00",
-      "week": 27,
-      "weekday": 5,
-      "kind": "letter-W",
-      "commits": 1
-    },
-    {
-      "date": "1995-07-17",
-      "timestamp": "1995-07-17T12:00:00+00:00",
+      "date": "2015-07-13",
+      "timestamp": "2015-07-13T12:00:00+00:00",
       "week": 28,
       "weekday": 1,
       "kind": "letter-W",
       "commits": 1
     },
     {
-      "date": "1995-07-18",
-      "timestamp": "1995-07-18T12:00:00+00:00",
+      "date": "2015-07-14",
+      "timestamp": "2015-07-14T12:00:00+00:00",
       "week": 28,
       "weekday": 2,
       "kind": "letter-W",
       "commits": 1
     },
     {
-      "date": "1995-07-19",
-      "timestamp": "1995-07-19T12:00:00+00:00",
+      "date": "2015-07-15",
+      "timestamp": "2015-07-15T12:00:00+00:00",
       "week": 28,
       "weekday": 3,
       "kind": "letter-W",
       "commits": 1
     },
     {
-      "date": "1995-07-20",
-      "timestamp": "1995-07-20T12:00:00+00:00",
-      "week": 28,
+      "date": "2015-07-23",
+      "timestamp": "2015-07-23T12:00:00+00:00",
+      "week": 29,
       "weekday": 4,
       "kind": "letter-W",
       "commits": 1
     },
     {
-      "date": "1995-07-31",
-      "timestamp": "1995-07-31T12:00:00+00:00",
-      "week": 30,
-      "weekday": 1,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-01",
-      "timestamp": "1995-08-01T12:00:00+00:00",
+      "date": "2015-07-28",
+      "timestamp": "2015-07-28T12:00:00+00:00",
       "week": 30,
       "weekday": 2,
-      "kind": "letter-O",
+      "kind": "letter-W",
       "commits": 1
     },
     {
-      "date": "1995-08-02",
-      "timestamp": "1995-08-02T12:00:00+00:00",
+      "date": "2015-07-29",
+      "timestamp": "2015-07-29T12:00:00+00:00",
       "week": 30,
       "weekday": 3,
-      "kind": "letter-O",
+      "kind": "letter-W",
       "commits": 1
     },
     {
-      "date": "1995-08-03",
-      "timestamp": "1995-08-03T12:00:00+00:00",
-      "week": 30,
-      "weekday": 4,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-04",
-      "timestamp": "1995-08-04T12:00:00+00:00",
-      "week": 30,
-      "weekday": 5,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-07",
-      "timestamp": "1995-08-07T12:00:00+00:00",
+      "date": "2015-08-06",
+      "timestamp": "2015-08-06T12:00:00+00:00",
       "week": 31,
+      "weekday": 4,
+      "kind": "letter-W",
+      "commits": 1
+    },
+    {
+      "date": "2015-08-09",
+      "timestamp": "2015-08-09T12:00:00+00:00",
+      "week": 32,
+      "weekday": 0,
+      "kind": "letter-W",
+      "commits": 1
+    },
+    {
+      "date": "2015-08-10",
+      "timestamp": "2015-08-10T12:00:00+00:00",
+      "week": 32,
+      "weekday": 1,
+      "kind": "letter-W",
+      "commits": 1
+    },
+    {
+      "date": "2015-08-11",
+      "timestamp": "2015-08-11T12:00:00+00:00",
+      "week": 32,
+      "weekday": 2,
+      "kind": "letter-W",
+      "commits": 1
+    },
+    {
+      "date": "2015-08-12",
+      "timestamp": "2015-08-12T12:00:00+00:00",
+      "week": 32,
+      "weekday": 3,
+      "kind": "letter-W",
+      "commits": 1
+    },
+    {
+      "date": "2015-08-23",
+      "timestamp": "2015-08-23T12:00:00+00:00",
+      "week": 34,
+      "weekday": 0,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-08-24",
+      "timestamp": "2015-08-24T12:00:00+00:00",
+      "week": 34,
       "weekday": 1,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-08-11",
-      "timestamp": "1995-08-11T12:00:00+00:00",
-      "week": 31,
-      "weekday": 5,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-14",
-      "timestamp": "1995-08-14T12:00:00+00:00",
-      "week": 32,
-      "weekday": 1,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-15",
-      "timestamp": "1995-08-15T12:00:00+00:00",
-      "week": 32,
+      "date": "2015-08-25",
+      "timestamp": "2015-08-25T12:00:00+00:00",
+      "week": 34,
       "weekday": 2,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-08-16",
-      "timestamp": "1995-08-16T12:00:00+00:00",
-      "week": 32,
+      "date": "2015-08-26",
+      "timestamp": "2015-08-26T12:00:00+00:00",
+      "week": 34,
       "weekday": 3,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-08-17",
-      "timestamp": "1995-08-17T12:00:00+00:00",
-      "week": 32,
+      "date": "2015-08-27",
+      "timestamp": "2015-08-27T12:00:00+00:00",
+      "week": 34,
       "weekday": 4,
       "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-08-18",
-      "timestamp": "1995-08-18T12:00:00+00:00",
-      "week": 32,
-      "weekday": 5,
-      "kind": "letter-O",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-28",
-      "timestamp": "1995-08-28T12:00:00+00:00",
-      "week": 34,
-      "weekday": 1,
-      "kind": "letter-R",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-29",
-      "timestamp": "1995-08-29T12:00:00+00:00",
-      "week": 34,
-      "weekday": 2,
-      "kind": "letter-R",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-30",
-      "timestamp": "1995-08-30T12:00:00+00:00",
-      "week": 34,
-      "weekday": 3,
-      "kind": "letter-R",
-      "commits": 1
-    },
-    {
-      "date": "1995-08-31",
-      "timestamp": "1995-08-31T12:00:00+00:00",
-      "week": 34,
-      "weekday": 4,
-      "kind": "letter-R",
-      "commits": 1
-    },
-    {
-      "date": "1995-09-01",
-      "timestamp": "1995-09-01T12:00:00+00:00",
-      "week": 34,
-      "weekday": 5,
-      "kind": "letter-R",
-      "commits": 1
-    },
-    {
-      "date": "1995-09-04",
-      "timestamp": "1995-09-04T12:00:00+00:00",
+      "date": "2015-08-30",
+      "timestamp": "2015-08-30T12:00:00+00:00",
       "week": 35,
-      "weekday": 1,
-      "kind": "letter-R",
+      "weekday": 0,
+      "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-09-06",
-      "timestamp": "1995-09-06T12:00:00+00:00",
+      "date": "2015-09-03",
+      "timestamp": "2015-09-03T12:00:00+00:00",
       "week": 35,
-      "weekday": 3,
-      "kind": "letter-R",
+      "weekday": 4,
+      "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-09-12",
-      "timestamp": "1995-09-12T12:00:00+00:00",
+      "date": "2015-09-06",
+      "timestamp": "2015-09-06T12:00:00+00:00",
+      "week": 36,
+      "weekday": 0,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-09-07",
+      "timestamp": "2015-09-07T12:00:00+00:00",
+      "week": 36,
+      "weekday": 1,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-09-08",
+      "timestamp": "2015-09-08T12:00:00+00:00",
       "week": 36,
       "weekday": 2,
-      "kind": "letter-R",
+      "kind": "letter-O",
       "commits": 1
     },
     {
-      "date": "1995-09-14",
-      "timestamp": "1995-09-14T12:00:00+00:00",
+      "date": "2015-09-09",
+      "timestamp": "2015-09-09T12:00:00+00:00",
+      "week": 36,
+      "weekday": 3,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-09-10",
+      "timestamp": "2015-09-10T12:00:00+00:00",
       "week": 36,
       "weekday": 4,
+      "kind": "letter-O",
+      "commits": 1
+    },
+    {
+      "date": "2015-09-20",
+      "timestamp": "2015-09-20T12:00:00+00:00",
+      "week": 38,
+      "weekday": 0,
       "kind": "letter-R",
       "commits": 1
     },
     {
-      "date": "1995-09-15",
-      "timestamp": "1995-09-15T12:00:00+00:00",
-      "week": 36,
-      "weekday": 5,
-      "kind": "letter-R",
-      "commits": 1
-    },
-    {
-      "date": "1995-09-25",
-      "timestamp": "1995-09-25T12:00:00+00:00",
+      "date": "2015-09-21",
+      "timestamp": "2015-09-21T12:00:00+00:00",
       "week": 38,
       "weekday": 1,
-      "kind": "letter-L",
+      "kind": "letter-R",
       "commits": 1
     },
     {
-      "date": "1995-09-26",
-      "timestamp": "1995-09-26T12:00:00+00:00",
+      "date": "2015-09-22",
+      "timestamp": "2015-09-22T12:00:00+00:00",
       "week": 38,
       "weekday": 2,
-      "kind": "letter-L",
+      "kind": "letter-R",
       "commits": 1
     },
     {
-      "date": "1995-09-27",
-      "timestamp": "1995-09-27T12:00:00+00:00",
+      "date": "2015-09-23",
+      "timestamp": "2015-09-23T12:00:00+00:00",
       "week": 38,
       "weekday": 3,
-      "kind": "letter-L",
+      "kind": "letter-R",
       "commits": 1
     },
     {
-      "date": "1995-09-28",
-      "timestamp": "1995-09-28T12:00:00+00:00",
+      "date": "2015-09-24",
+      "timestamp": "2015-09-24T12:00:00+00:00",
       "week": 38,
       "weekday": 4,
-      "kind": "letter-L",
+      "kind": "letter-R",
       "commits": 1
     },
     {
-      "date": "1995-09-29",
-      "timestamp": "1995-09-29T12:00:00+00:00",
-      "week": 38,
-      "weekday": 5,
-      "kind": "letter-L",
-      "commits": 1
-    },
-    {
-      "date": "1995-10-06",
-      "timestamp": "1995-10-06T12:00:00+00:00",
+      "date": "2015-09-27",
+      "timestamp": "2015-09-27T12:00:00+00:00",
       "week": 39,
-      "weekday": 5,
-      "kind": "letter-L",
+      "weekday": 0,
+      "kind": "letter-R",
       "commits": 1
     },
     {
-      "date": "1995-10-13",
-      "timestamp": "1995-10-13T12:00:00+00:00",
+      "date": "2015-09-29",
+      "timestamp": "2015-09-29T12:00:00+00:00",
+      "week": 39,
+      "weekday": 2,
+      "kind": "letter-R",
+      "commits": 1
+    },
+    {
+      "date": "2015-10-05",
+      "timestamp": "2015-10-05T12:00:00+00:00",
       "week": 40,
-      "weekday": 5,
+      "weekday": 1,
+      "kind": "letter-R",
+      "commits": 1
+    },
+    {
+      "date": "2015-10-07",
+      "timestamp": "2015-10-07T12:00:00+00:00",
+      "week": 40,
+      "weekday": 3,
+      "kind": "letter-R",
+      "commits": 1
+    },
+    {
+      "date": "2015-10-08",
+      "timestamp": "2015-10-08T12:00:00+00:00",
+      "week": 40,
+      "weekday": 4,
+      "kind": "letter-R",
+      "commits": 1
+    },
+    {
+      "date": "2015-10-18",
+      "timestamp": "2015-10-18T12:00:00+00:00",
+      "week": 42,
+      "weekday": 0,
       "kind": "letter-L",
       "commits": 1
     },
     {
-      "date": "1995-10-23",
-      "timestamp": "1995-10-23T12:00:00+00:00",
+      "date": "2015-10-19",
+      "timestamp": "2015-10-19T12:00:00+00:00",
       "week": 42,
+      "weekday": 1,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-10-20",
+      "timestamp": "2015-10-20T12:00:00+00:00",
+      "week": 42,
+      "weekday": 2,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-10-21",
+      "timestamp": "2015-10-21T12:00:00+00:00",
+      "week": 42,
+      "weekday": 3,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-10-22",
+      "timestamp": "2015-10-22T12:00:00+00:00",
+      "week": 42,
+      "weekday": 4,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-10-29",
+      "timestamp": "2015-10-29T12:00:00+00:00",
+      "week": 43,
+      "weekday": 4,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-11-05",
+      "timestamp": "2015-11-05T12:00:00+00:00",
+      "week": 44,
+      "weekday": 4,
+      "kind": "letter-L",
+      "commits": 1
+    },
+    {
+      "date": "2015-11-15",
+      "timestamp": "2015-11-15T12:00:00+00:00",
+      "week": 46,
+      "weekday": 0,
+      "kind": "letter-D",
+      "commits": 1
+    },
+    {
+      "date": "2015-11-16",
+      "timestamp": "2015-11-16T12:00:00+00:00",
+      "week": 46,
       "weekday": 1,
       "kind": "letter-D",
       "commits": 1
     },
     {
-      "date": "1995-10-24",
-      "timestamp": "1995-10-24T12:00:00+00:00",
-      "week": 42,
+      "date": "2015-11-17",
+      "timestamp": "2015-11-17T12:00:00+00:00",
+      "week": 46,
       "weekday": 2,
       "kind": "letter-D",
       "commits": 1
     },
     {
-      "date": "1995-10-25",
-      "timestamp": "1995-10-25T12:00:00+00:00",
-      "week": 42,
+      "date": "2015-11-18",
+      "timestamp": "2015-11-18T12:00:00+00:00",
+      "week": 46,
       "weekday": 3,
       "kind": "letter-D",
       "commits": 1
     },
     {
-      "date": "1995-10-26",
-      "timestamp": "1995-10-26T12:00:00+00:00",
-      "week": 42,
+      "date": "2015-11-19",
+      "timestamp": "2015-11-19T12:00:00+00:00",
+      "week": 46,
       "weekday": 4,
       "kind": "letter-D",
       "commits": 1
     },
     {
-      "date": "1995-10-27",
-      "timestamp": "1995-10-27T12:00:00+00:00",
-      "week": 42,
-      "weekday": 5,
+      "date": "2015-11-22",
+      "timestamp": "2015-11-22T12:00:00+00:00",
+      "week": 47,
+      "weekday": 0,
       "kind": "letter-D",
       "commits": 1
     },
     {
-      "date": "1995-10-30",
-      "timestamp": "1995-10-30T12:00:00+00:00",
-      "week": 43,
+      "date": "2015-11-26",
+      "timestamp": "2015-11-26T12:00:00+00:00",
+      "week": 47,
+      "weekday": 4,
+      "kind": "letter-D",
+      "commits": 1
+    },
+    {
+      "date": "2015-11-30",
+      "timestamp": "2015-11-30T12:00:00+00:00",
+      "week": 48,
       "weekday": 1,
       "kind": "letter-D",
       "commits": 1
     },
     {
-      "date": "1995-11-03",
-      "timestamp": "1995-11-03T12:00:00+00:00",
-      "week": 43,
-      "weekday": 5,
-      "kind": "letter-D",
-      "commits": 1
-    },
-    {
-      "date": "1995-11-07",
-      "timestamp": "1995-11-07T12:00:00+00:00",
-      "week": 44,
+      "date": "2015-12-01",
+      "timestamp": "2015-12-01T12:00:00+00:00",
+      "week": 48,
       "weekday": 2,
       "kind": "letter-D",
       "commits": 1
     },
     {
-      "date": "1995-11-08",
-      "timestamp": "1995-11-08T12:00:00+00:00",
-      "week": 44,
+      "date": "2015-12-02",
+      "timestamp": "2015-12-02T12:00:00+00:00",
+      "week": 48,
       "weekday": 3,
-      "kind": "letter-D",
-      "commits": 1
-    },
-    {
-      "date": "1995-11-09",
-      "timestamp": "1995-11-09T12:00:00+00:00",
-      "week": 44,
-      "weekday": 4,
       "kind": "letter-D",
       "commits": 1
     }
